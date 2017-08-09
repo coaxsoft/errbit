@@ -72,6 +72,7 @@ group :development do
   gem 'capistrano-rbenv',   require: false
   gem 'capistrano3-puma',   require: false
   gem 'capistrano-rvm',    require: false
+  gem 'capistrano-rails-console', require: false
 
 
   # better errors
